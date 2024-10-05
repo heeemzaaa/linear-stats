@@ -35,9 +35,13 @@ The exercise requires you to create a program that reads numerical data from a f
 ## Equations Formula
 
 1. This is the formula of the Linear Regression Line:
-    ![My Image](images/linear.png)
+    
+    
+     ![My Image](images/linear.png)
 
 2. This is the formula of the Pearson Correlation Coefficient:
+   
+   
     ![My Image](images/pearson.png)
 
 
